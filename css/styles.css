@@ -1,0 +1,129 @@
+img {
+  display: block;
+}
+
+i {
+  font-size: 2em;
+  margin: 5px;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 77px;
+  max-height: 77px;
+}
+
+
+.header p {
+  font-size: 2em;
+}
+
+.body-container {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 933px;
+  border: 0px solid gray;
+}
+
+.header-group {
+  display: flex;
+  align-items: baseline;
+}
+
+.article-section {
+  width: 614px;
+  margin-right: 28px;
+  border: 1px solid gray;
+}
+
+.article-comment input {
+  width: 99%;
+}
+
+.stories-section {
+  width: 293px;
+  height: 650px;
+  border: 1px solid gray;
+}
+
+.article-photo {
+  /* background-image: url("img/fake-insta-star.jpg"); */
+  /* width: inherit; */
+  /* max-width: 614px; */
+  height: 614px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.article-header {
+  display: flex;
+  width: 25%;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 5px;
+}
+
+.article-icons {
+  justify-content: space-between;
+}
+
+.article-header i {
+  font-size: 2em;
+}
+
+.instafont {
+  font-family: 'Lobster', cursive;
+}
+
+.header-group i {
+  margin: 5px;
+}
+
+.flex {
+  display: flex;
+}
+
+#search {
+  width: 215px;
+  height: 28px;
+  border: 3px solid gray;
+  /* font-size: 1em; */
+  border-radius: 5px;
+}
+
+/* icon references
+
+insta: <i class="fab fa-instagram"></i>
+
+compass: <i class="far fa-compass"></i>
+
+heart: <i class="far fa-heart"></i>
+
+user: <i class="far fa-user"></i>
+
+comment: <i class="far fa-comment"></i>
+
+bookmark: <i class="far fa-bookmark"></i>
+
+frown: <i class="fas fa-angry"></i>
+
+open-mouth: <i class="fas fa-surprise"></i>
+
+wink: <i class="fas fa-smile-wink"></i>
+
+cry: <i class="fas fa-sad-cry"></i>
+
+eyeroll: <i class="fas fa-meh-rolling-eyes"></i>
+
+share (rotate 270 degrees): <i class="fas fa-sign-out-alt"></i>
+ */
