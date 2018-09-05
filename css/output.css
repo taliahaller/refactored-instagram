@@ -1,0 +1,98 @@
+body {
+  font-family: "Palanquin", sans-serif;
+  background-color: white;
+}
+
+img {
+  display: block;
+}
+
+i {
+  font-size: 2em;
+  margin: 5px;
+}
+
+.flex {
+  display: flex;
+}
+
+.instafont {
+  font-family: "Lobster", cursive;
+}
+
+.header {
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 77px;
+  position: sticky;
+  background-color: inherit;
+  top: 0;
+}
+.header p {
+  font-size: 2em;
+}
+
+.header-group {
+  align-items: baseline;
+}
+.header-group i {
+  margin: 5px;
+}
+
+.body-container {
+  margin: 0 auto;
+  width: 933px;
+}
+
+.article-section {
+  width: 614px;
+  margin-right: 28px;
+}
+
+.article {
+  margin-bottom: 1em;
+  border: 1px solid lightgray;
+}
+
+.article-header {
+  width: 25%;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 5px;
+}
+.article-header i {
+  font-size: 2em;
+}
+
+.article-photo {
+  height: 614px;
+  overflow: hidden;
+  justify-content: center;
+  align-items: center;
+}
+
+.article-icons {
+  justify-content: space-between;
+}
+
+.article-comment input {
+  width: 99%;
+}
+
+.stories-section {
+  width: 293px;
+  height: 650px;
+  border: 1px solid gray;
+  position: sticky;
+  top: 78px;
+}
+
+#search {
+  width: 215px;
+  height: 28px;
+  border: 3px solid lightgray;
+  border-radius: 5px;
+}
+
+/*# sourceMappingURL=output.css.map */

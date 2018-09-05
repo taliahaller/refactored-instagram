@@ -1,105 +1,118 @@
-img {
+/* img {
   display: block;
 }
 
 i {
   font-size: 2em;
   margin: 5px;
-}
+} */
 
-body {
-  font-family: sans-serif;
-}
+/* body {
+  /* font-family: sans-serif; */
+  /* background-color: white; */
 
-.header {
+/* .header {
   display: flex;
   justify-content: space-around;
   align-items: center;
   width: 100%;
   height: 77px;
   max-height: 77px;
-}
+  min-height: 77px;
+  position: sticky;
+  background-color: inherit;
+  top: 0;
+} */
 
 
-.header p {
+/* .header p {
   font-size: 2em;
-}
+} */
 
-.body-container {
+/* .body-container {
   display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 933px;
   border: 0px solid gray;
-}
+} */
 
-.header-group {
-  display: flex;
-  align-items: baseline;
-}
-
-.article-section {
-  width: 614px;
-  margin-right: 28px;
-  border: 1px solid gray;
-}
-
-.article-comment input {
-  width: 99%;
-}
-
-.stories-section {
-  width: 293px;
-  height: 650px;
-  border: 1px solid gray;
-}
-
-.article-photo {
-  /* background-image: url("img/fake-insta-star.jpg"); */
-  /* width: inherit; */
-  /* max-width: 614px; */
-  height: 614px;
-  overflow: hidden;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.article-header {
-  display: flex;
-  width: 25%;
-  justify-content: space-around;
-  align-items: center;
-  margin-left: 5px;
-}
-
-.article-icons {
-  justify-content: space-between;
-}
-
-.article-header i {
-  font-size: 2em;
-}
-
-.instafont {
+/* .instafont {
   font-family: 'Lobster', cursive;
-}
+} */
 
-.header-group i {
+/* .header-group i {
   margin: 5px;
-}
+} */
 
-.flex {
+/* .flex {
   display: flex;
-}
+} */
 
-#search {
+/* #search {
   width: 215px;
   height: 28px;
   border: 3px solid gray;
   /* font-size: 1em; */
-  border-radius: 5px;
+  /* border-radius: 5px;
+} */
+
+/* .header-group {
+  display: flex;
+  align-items: baseline;
+} */
+
+/* .article-section {
+  width: 614px;
+  margin-right: 28px;
+} */
+
+/* .article {
+  margin-bottom: 1em;
+  border: 1px solid gray;
+} */
+/*
+.article-comment input {
+  width: 99%;
 }
+
+.article-photo { */
+  /* background-image: url("img/fake-insta-star.jpg"); */
+  /* width: inherit; */
+  /* max-width: 614px; */
+  /* height: 614px;
+  overflow: hidden; */
+  /* display: flex; */
+  /* justify-content: center;
+  align-items: center;
+}
+.article-icons {
+  justify-content: space-between;
+} */
+/* .stories-section {
+  width: 293px;
+  height: 650px;
+  border: 1px solid gray;
+} */
+
+
+/* .article-header {
+  width: 25%;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 5px;
+} */
+
+/* .stories-section {
+  position: sticky;
+  top: 78px;
+} */
+
+
+/* .article-header i {
+  font-size: 2em;
+} */
+
 
 /* icon references
 
